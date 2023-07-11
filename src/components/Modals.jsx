@@ -17,7 +17,7 @@ export default function Modals() {
     const showModal = () => {
         setSmallModal(true);
     };
-    
+
     const clickModal = () => {
         setLargeModal(true);
     };
